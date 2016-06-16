@@ -48,6 +48,11 @@
     background-image: none;
 }
 
+.marketing-section-hp, .wd-section-hp {
+	background-image: url('/skins/lowtechlab-skin/images/bg-ltl.jpg');
+	background-size: cover;
+}
+
 .wf-top-button .btn:hover {
     background-color: #042d2f;
     border: 1px solid #042d2f;
