@@ -53,6 +53,14 @@
 	background-size: cover;
 }
 
+.ltl-footer-link a {
+	color: #ccc;
+}
+
+.ltl-footer-link a:hover {
+	color: #fff;
+}
+
 .wf-top-button .btn:hover {
     background-color: #042d2f;
     border: 1px solid #042d2f;
